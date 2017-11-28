@@ -2,7 +2,7 @@
 
 > Projeto de cotações para Engenharia Economica UFG 2017-2
 
-> Demonstração: https://catacota.surge.sh/
+> Demonstração: http://catacota.surge.sh/
 
 ## Build Setup
 
